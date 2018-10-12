@@ -1,2 +1,2 @@
 # udprogautoschellscript
-It installs and runs the robocar software, which i owned by the university of debrecen.
+It installs and runs the robocar software. (university of debrecen)
